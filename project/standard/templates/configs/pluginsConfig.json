@@ -629,6 +629,15 @@
       ]
     },
     {
+      "name": "PhotoSphere",
+      "glyph": "road",
+      "title": "plugins.PhotoSphere.title",
+      "description": "plugins.PhotoSphere.description",
+      "dependencies": [
+        "SidebarMenu"
+      ]
+    },
+    {
       "name": "SidebarMenu",
       "hidden": true
     }

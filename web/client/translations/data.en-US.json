@@ -3240,6 +3240,11 @@
             "title": "Street View",
             "description": "Street view tool for browsing Google street view images from the map"
           },
+          "PhotoSphere": {
+            "title": "Photo Sphere",
+            "description": "Tool for viewing 360 degree photo sphere",
+            "tooltip":"Tool for viewing 360 degree photo sphere"
+          },
           "StyleEditor": {
             "description": "Layer's style editor",
             "title": "Style Editor"

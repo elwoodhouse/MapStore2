@@ -141,6 +141,7 @@ export const plugins = {
     PermalinkPlugin: toModulePlugin('Permalink', () => import(/* webpackChunkName: 'plugins/permalink' */ '../plugins/Permalink')),
     SnapshotPlugin: toModulePlugin('Snapshot', () => import(/* webpackChunkName: 'plugins/snapshot' */ '../plugins/Snapshot')),
     StreetView: toModulePlugin('StreetView', () => import(/* webpackChunkName: 'plugins/streetView' */ '../plugins/StreetView')),
+    PhotoSphere: toModulePlugin('PhotoSphere', () => import(/* webpackChunkName: 'plugins/photoSphere' */ '../plugins/PhotoSphere')),
     StyleEditor: toModulePlugin('StyleEditor', () => import(/* webpackChunkName: 'plugins/styleEditor' */ '../plugins/StyleEditor')),
     SwipePlugin: toModulePlugin('Swipe', () => import(/* webpackChunkName: 'plugins/swipe' */ '../plugins/Swipe')),
     TOCItemsSettingsPlugin: toModulePlugin('TOCItemsSettings', () => import(/* webpackChunkName: 'plugins/TOCItemsSettings' */ '../plugins/TOCItemsSettings')),

@@ -264,6 +264,7 @@
     "react-nouislider": "2.0.1",
     "react-overlays": "1.2.0",
     "react-pdf": "5.1.0",
+    "react-photo-sphere-viewer": "^4.0.2-psv5.4.4",
     "react-player": "1.15.3",
     "react-plotly.js": "2.5.0",
     "react-quill": "1.1.0",
