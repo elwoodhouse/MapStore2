@@ -3888,6 +3888,17 @@
           "remove": "Reset User Session",
           "confirmRemove": "Are you sure you want to restore the default configuration?"
         },
+        "photoSphere": {
+          "title": "Photo Sphere Viewer",
+          "description": "Tool for viewing 360 degree photo sphere",
+          "tooltip": "Open photo sphere tool",
+          "emptyTitle": "Photo Sphere",
+          "emptyDescription": "Click on a point to select photo.",
+          "messages": {
+            "noDataForPosition": "no photo for this position",
+            "unknownError": "unknown error, see console"
+          }
+        },
         "streetView": {
           "title": "Street View",
           "description": "Street view tool for browsing Google street view images from the map",
